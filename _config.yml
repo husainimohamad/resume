@@ -3,26 +3,26 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Israa S.D
-title: Software Engineer
-email: israasaifullah@gmail.com
-phone: +6013-323 5534
+name: HusainiMohamadNazri
+title: System Analyst | DevOps
+email: husaininazri007@gmail.com
+phone: +60194957007
 
 # Social links
 # twitter_username: facespics
-github_username:  QuantMis
+github_username:  husainimohamad
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: chillwildlife
-linkedin_username: israaibnusaifullah
+linkedin_username: husaininazri
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/
 about_content: | # this will include new lines to allow paragraphs
   All-rounder with a passion for technology, knowledgeable in FinTech and Cryptocurrency, with experience ranging from small tech startups to major software house, with a strong development portfolio that includes automation scripting, web application development, defi  and machine learning.
 
