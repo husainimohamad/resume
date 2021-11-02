@@ -1,0 +1,37 @@
+- layout: left
+  company: Pipeline Network Sdn Bhd
+  #link: boringcompany.com
+  job_title: Full Stack Web Developer
+  dates: November 2020 - Current
+  description: | # this will include new lines to allow paragraphs
+    - Build end to end web application using PHP Laravel Framework with MVC Architecture.
+    - Develop user-friendly web interface using Angular Framework.
+    - Develop mobile interface using Ionic Framework.
+    - Develop Rest API using Python Django Framework and PHP Laravel.
+    - Integrate in-house Web Application with external system via Rest API & SOAP Protocol..
+    - Transform abstract business logic such as billing, score assessment, content management and Point of Sale into usable applications.
+
+- layout: left
+  company: Pipeline Network Sdn Bhd
+  #link: boringcompany.com
+  job_title: DevOps Engineer
+  dates: April 2021 - Current
+  description: | # this will include new lines to allow paragraphs
+    - Deploy REST APIs and User Interface application on Linux Server, Windows Server and DigitalOcean Platform.
+    - Deploy various database (PostgreSQL, MSSQL, Mysql) on DigitalOcean Platform and Linux Server.
+    - Deploy Laravel Application using Laravel Forge.
+    - Write shell script in Linux Server for scheduler process and web worker service.
+    - Secure web application with SSL Certificate installation in Nginx.
+    - Manage web application DNS using Cloudflare.
+    
+- layout: left
+  company: Rivex Market Making Foundation 
+  #link: boringcompany.com
+  job_title: Backend Developer 
+  dates: March 2020 - September 2020
+  description: | # this will include new lines to allow paragraphs
+    - Develop low latency multithreaded service worker using python & cython.
+    - API and websocket integration on BitMax Exchange
+    - Responsible to manage liquidiy provision bot for market making operation.
+    - Involve in Initial Coin Offering (ICO).  
+   

@@ -1,0 +1,69 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Personal info
+name: Israa S.D
+title: Software Engineer
+email: israasaifullah@gmail.com
+phone: +6013-323 5534
+
+# Social links
+# twitter_username: facespics
+github_username:  QuantMis
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: chillwildlife
+linkedin_username: israaibnusaifullah
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  All-rounder with a passion for technology, knowledgeable in FinTech and Cryptocurrency, with experience ranging from small tech startups to major software house, with a strong development portfolio that includes automation scripting, web application development, defi  and machine learning.
+
+    Highlights: 
+    - Web Application using PHP Laravel
+    - Rest API Development using Django & Django Rest Framework
+    - Web Interface Development using Angular
+    - Mobile Application Development using Ionic
+    - Payment Gateway API Integration (FPX)
+    - REST and SOAP Api Integration
+    - Application Deployment on Linux Server, Windows Server and Platform (DigitalOcean, Laravel Forge)
+  
+
+# More Section
+# more_title: A Little More About Me
+#more_content: | # this will include new lines to allow paragraphs
+#  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+#   - Rock climbing
+#   - Gaming
+#   - Knitting
+#   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+
+# Footer
+footer_show_references: false
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
